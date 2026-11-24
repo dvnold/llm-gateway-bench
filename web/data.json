@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:29:05.766Z",
+  "generatedAt": "2026-11-24T12:26:11.162Z",
   "demo": false,
   "windowDays": 30,
   "regions": [
@@ -2314,7 +2314,7 @@
     }
   ],
   "prices": {
-    "fetchedAt": "2026-11-24T06:29:05.661Z",
+    "fetchedAt": "2026-11-24T12:26:10.987Z",
     "unit": "USD per 1M tokens [input, output]",
     "sources": {
       "official": "litellm",
